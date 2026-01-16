@@ -42,10 +42,4 @@ It includes:
 
 ---
 
-## 🛠 Installation
 
-1. Clone repository:
-
-```bash
-git clone <repo_url>
-cd <repo_folder>
