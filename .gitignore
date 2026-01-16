@@ -52,4 +52,5 @@ db.sqlite3-journal
 
 # Migrations (optional - uncomment if needed)
  users/migrations/*
+
 # !*/migrations/__init__.py
