@@ -51,5 +51,5 @@ db.sqlite3-journal
 /mediafiles/
 
 # Migrations (optional - uncomment if needed)
- *users/migrations/*
+ users/migrations/*
 # !*/migrations/__init__.py
